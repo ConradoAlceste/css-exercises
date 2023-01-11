@@ -1,0 +1,17 @@
+/* styles */
+
+.button_click,
+.button_no_click {
+  font-family: Helvetica, "Times New Roman", sans-serif;
+  font-size: 28px;
+  border-color: lightgray;
+}
+
+.button_click {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.button_no_click {
+  background-color: yellow;
+}
